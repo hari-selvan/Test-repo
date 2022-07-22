@@ -3,9 +3,12 @@
   tasks:
     - name: Print message
       debug:
-        msg: Commit in Master branch
-        
+        msg: Commit in Master branch      
    
     - name: Print message
       debug:
         msg: Commit in feature-2 branch
+       
+    - name: Print message
+      debug:
+        msg: Commit in feature-1 branch

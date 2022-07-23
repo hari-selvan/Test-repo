@@ -1,3 +1,7 @@
 This file is from feature-1 branch
 
 Update - 1
+
+    - name: Print message
+      debug:
+        msg: Commit in feature-3 branch

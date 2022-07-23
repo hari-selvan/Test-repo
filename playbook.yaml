@@ -12,3 +12,7 @@
     - name: Print message
       debug:
         msg: Commit in feature-1 branch
+        
+    - name: Print message
+      debug:
+        msg: Commit in feature-3 branch
